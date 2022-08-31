@@ -29,9 +29,6 @@ const cookieHandler = {
 };
 
 
-cookieHandler.getAll();
-cookieHandler.flush();
-
 export {
     cookieHandler
 }
